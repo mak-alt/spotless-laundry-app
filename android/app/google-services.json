@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "446009937675",
+    "project_id": "spotless-34e32",
+    "storage_bucket": "spotless-34e32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446009937675:android:8c9d59099a027951079c0e",
+        "android_client_info": {
+          "package_name": "com.spotlessapp.production"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446009937675-hvi09ecostdc9jgt1d1rquogufl843om.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAewNqhRsmHl1g13ssBeMfNVU1MqBl_HLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446009937675-hvi09ecostdc9jgt1d1rquogufl843om.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
